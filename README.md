@@ -1,4 +1,6 @@
 # SPI_Slave_with_SPR
 This project centers on designing and implementing an SPI (Serial Peripheral Interface) Slave module, a fundamental component in synchronous serial communication where a master device governs data transfer by providing the clock signal. The slave operates in sync with this clock to exchange data. The design allows the slave to receive data via the MOSI (Master Out, Slave In) line and send data back through the MISO (Master In, Slave Out) line, with all communication timed by the master’s clock (SCK). It supports full-duplex operation, enabling simultaneous sending and receiving of data, and can be configured for various SPI modes based on clock polarity and phase settings.
 
+in this work i run the design using 3 differents FSM encoding types (gray,one_hot,Sequential) to choose the best one to to operate at the highest frequency possible 
+
 This work demonstrates proficiency in implementing widely-used communication protocols using Verilog HDL, performing thorough functional simulations for verification, and successfully deploying the design on FPGA hardware to achieve dependable real-world performance.
