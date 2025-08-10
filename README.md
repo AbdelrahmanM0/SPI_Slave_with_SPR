@@ -3,4 +3,4 @@ This project centers on designing and implementing an SPI (Serial Peripheral Int
 
 in this work i run the design using 3 differents FSM encoding types (gray,one_hot,Sequential) to choose the best one to to operate at the highest frequency possible 
 
-This work demonstrates proficiency in implementing widely-used communication protocols using Verilog HDL, performing thorough functional simulations for verification, and successfully deploying the design on FPGA hardware to achieve dependable real-world performance.
+This work increase my ability in implementing widely-used communication protocols using Verilog HDL, performing thorough functional simulations for verification, and successfully deploying the design on FPGA hardware to achieve dependable real-world performance.
